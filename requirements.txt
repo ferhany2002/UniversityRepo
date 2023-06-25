@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+numpy==1.23.5
+torch>=1.13.1
+tsai==0.3.4
+matplotlib==3.6.2
+scikit-learn==1.1.3
+ipython==8.7.0
+pandas==1.5.2
+torchmetrics==0.11.0
+tensorboardX==2.5.1
+scipy==1.9.3
+tqdm==4.64.1
+opencv-python==4.6.0.66
+=======
+numpy>=1.23.5
+torch>=1.13.0+cu116
+tsai>=0.3.4
+matplotlib>=3.6.2
+scikit-learn>=1.1.3
+ipython>=8.7.0
+pandas>=1.5.2
+torchmetrics>=0.11.0
+tensorboardX>=2.5.1
+scipy>=1.9.3
+tqdm>=4.64.1
+opencv-python>=4.6.0.66
+>>>>>>> 1c68ae0460a8ca8d01c072a574567958dae1755d
